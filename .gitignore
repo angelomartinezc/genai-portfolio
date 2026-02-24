@@ -140,6 +140,8 @@ celerybeat.pid
 .venv
 env/
 venv/
+__pycache__/
+.ipynb_checkpoints/
 ENV/
 env.bak/
 venv.bak/
